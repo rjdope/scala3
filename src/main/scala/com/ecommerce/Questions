@@ -1,0 +1,11 @@
+Senior-level question
+Q: Is val thread-safe?
+"val prevents reassignment of the binding, but it does not automatically make a
+referenced mutable object thread-safe. Thread safety depends on the object's
+mutability and how it is accessed. Immutable values are generally easier to
+share safely across concurrent operations."
+
+Q: Is lazy val thread-safe?
+"Scala's lazy val initialization mechanism coordinates concurrent
+access so that the initializer is evaluated once after successful initialization.
+However, thread safety of the object returned by the lazy val is a separate concern."
