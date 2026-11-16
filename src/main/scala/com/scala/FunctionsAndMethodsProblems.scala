@@ -1,4 +1,4 @@
-package com.ecommerce
+package com.scala
 
 import scala.annotation.tailrec
 

@@ -1,4 +1,4 @@
-package com.ecommerce
+package com.scala
 
 object FunctionsAndMethods extends App {
   //   Instead of writing the same calculation repeatedly,

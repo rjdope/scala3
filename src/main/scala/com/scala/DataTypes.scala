@@ -1,4 +1,4 @@
-package com.ecommerce
+package com.scala
 
 object DataTypes extends App {
     val productId: Long = 10001L

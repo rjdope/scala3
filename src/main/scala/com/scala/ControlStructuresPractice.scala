@@ -1,4 +1,4 @@
-package com.ecommerce
+package com.scala
 
 object ControlStructuresPractice extends App {
 //  1: Check whether a customer is eligible for a discount.

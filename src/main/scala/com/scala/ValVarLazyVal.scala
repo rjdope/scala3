@@ -1,4 +1,4 @@
-package com.ecommerce
+package com.scala
 
 object ValVarLazyVal extends App {
 //  1: Declare a val called applicationName with value "E-Commerce".
